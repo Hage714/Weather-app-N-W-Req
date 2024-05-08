@@ -7,8 +7,10 @@ body{
     background: gray;
     font-family: "Lugrasimo", cursive;
     background-image: url('https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&w=600');
-    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
     font-size: 120%;
+    background-attachment: fixed;
 }
 
 .card{
